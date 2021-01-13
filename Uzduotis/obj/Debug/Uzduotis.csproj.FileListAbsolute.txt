@@ -1,0 +1,10 @@
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe.config
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\bin\Debug\Uzduotis.exe
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\bin\Debug\Uzduotis.pdb
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csprojAssemblyReference.cache
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Form1.resources
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\obj\Debug\Uzduotis.Properties.Resources.resources
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.GenerateResource.cache
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\obj\Debug\Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\obj\Debug\Uzduotis.exe
+C:\Users\Matas\source\repos\Uzduotis\Uzduotis\obj\Debug\Uzduotis.pdb
